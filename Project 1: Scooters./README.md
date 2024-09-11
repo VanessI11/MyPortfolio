@@ -1,5 +1,7 @@
 ##   ПРОЕКТ: Сравнение потребительского поведения пользователей фирмы GoFast c подписке и с бесплатной версией
-    Ссылки на проект: [HTML](file:///C:/Users/user/Downloads/Scooters.html)
+
+### Ссылки на проект: 
+[HTML](file:///C:/Users/user/Downloads/Scooters.html)
 
 ### Описание проекта: 
 
