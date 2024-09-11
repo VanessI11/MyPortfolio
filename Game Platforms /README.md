@@ -13,7 +13,7 @@
 <table style="margin-top:20px;">
   <tr>
     <th>Навыки</th>
-    <th>Описание</th>
+    <th>Реализация</th>
   </tr>
   <tr>
     <td>Python</td>
@@ -84,97 +84,53 @@
 Выявить факторы и тенденции пользовательского интереса к конкретным играм и игровым платформам во временном разрезе, для передачи информации разработчикам видеоигр о перспективных игровых платформах и видеоиграх
 
 ### Набор данных
-<table>
+<table style="margin-top:20px;">
   <tr>
     <th>Поле</th>
     <th>Описание</th>
   </tr>
   <tr>
-    <td>airports_nearest</td>
-    <td>Расстояние до ближайшего аэропорта в метрах (м)</td>
+    <td>Name</td>
+    <td>Название игры</td>
   </tr>
   <tr>
-    <td>balcony</td>
-    <td>Количество балконов</td>
+    <td>Platform</td>
+    <td>Платформа</td>
   </tr>
   <tr>
-    <td>ceiling_height</td>
-    <td>Высота потолков в метрах (м)</td>
+    <td>Year_of_Release</td>
+    <td>Год выпуска</td>
   </tr>
   <tr>
-    <td>cityCenters_nearest</td>
-    <td>Расстояние до центра города в метрах (м)</td>
+    <td>Genre</td>
+    <td>Жанр игры</td>
   </tr>
   <tr>
-    <td>days_exposition</td>
-    <td>Сколько дней было размещено объявление (от публикации до снятия)</td>
+    <td>NA_sales</td>
+    <td>Продажи в Северной Америке (миллионы проданных копий)</td>
   </tr>
   <tr>
-    <td>first_day_exposition</td>
-    <td>Дата публикации</td>
+    <td>EU_sales</td>
+    <td>Продажи в Европе (миллионов проданных копий)</td>
   </tr>
   <tr>
-    <td>floor</td>
-    <td>Этаж</td>
+    <td>JP_sales</td>
+    <td>Продажи в Японии (миллионов проданных копий)</td>
   </tr>
   <tr>
-    <td>floors_total</td>
-    <td>Всего этажей в доме</td>
+    <td>Other_sales</td>
+    <td>Продажи в других странах (миллионы проданных копий)</td>
   </tr>
   <tr>
-    <td>is_apartment</td>
-    <td>Апартаменты (булев тип)</td>
+    <td>Critic_Score</td>
+    <td>Оценка критиков (максимум 100)</td>
   </tr>
   <tr>
-    <td>kitchen_area</td>
-    <td>Площадь кухни в квадратных метрах (м²)</td>
+    <td>User_Score</td>
+    <td>Оценка пользователей (максимум 10)</td>
   </tr>
   <tr>
-    <td>last_price</td>
-    <td>Цена на момент снятия с публикации</td>
-  </tr>
-  <tr>
-    <td>living_area</td>
-    <td>Жилая площадь в квадратных метрах (м²)</td>
-  </tr>
-  <tr>
-    <td>locality_name</td>
-    <td>Название населенного пункта</td>
-  </tr>
-  <tr>
-    <td>open_plan</td>
-    <td>Свободная планировка (булев тип)</td>
-  </tr>
-  <tr>
-    <td>parks_around3000</td>
-    <td>Количество парков в радиусе 3 км</td>
-  </tr>
-  <tr>
-    <td>parks_nearest</td>
-    <td>Расстояние до ближайшего парка в метрах (м)</td>
-  </tr>
-  <tr>
-    <td>ponds_around3000</td>
-    <td>Количество водоемов в радиусе 3 км</td>
-  </tr>
-  <tr>
-    <td>ponds_nearest</td>
-    <td>Расстояние до ближайшего водоема в метрах (м)</td>
-  </tr>
-  <tr>
-    <td>rooms</td>
-    <td>Количество комнат</td>
-  </tr>
-  <tr>
-    <td>studio</td>
-    <td>Квартира-студия (булев тип)</td>
-  </tr>
-  <tr>
-    <td>total_area</td>
-    <td>Общая площадь квартиры в квадратных метрах (м²)</td>
-  </tr>
-  <tr>
-    <td>total_images</td>
-    <td>Количество фотографий квартиры в объявлении</td>
+    <td>Rating</td>
+    <td>Рейтинг от организации ESRB (Entertainment Software Rating Board)</td>
   </tr>
 </table>
