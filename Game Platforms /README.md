@@ -5,11 +5,13 @@
 </table>
 
    ### Ссылки на проект:
-   [ipynb](http://localhost:8888/notebooks/games.ipynb#) [HTML](https://disk.yandex.ru/d/7czl6buxz0FcAw)
+   [ipynb](https://github.com/VanessI11/MyPortfolio/blob/main/Game%20Platforms%20/games.ipynb)
+   [HTML](https://disk.yandex.ru/d/7czl6buxz0FcAw)
 
 ### Описание: 
 Используя исторические данные о продажах игр, оценках пользователей и экспертов, жанрах и платформах необходимо выявить фактотры успеха видеоигр и платформ, а также спрогназировать, какие платформы и видеоигры будут популярны в ближайшее время, чтобы выстроить маркетинговую траекторию для магазина видеоигр
 
+### Навыки
 <table style="margin-top:20px;">
   <tr>
     <th>Навыки</th>
