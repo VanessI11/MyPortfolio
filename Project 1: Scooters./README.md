@@ -1,7 +1,6 @@
 ##   ПРОЕКТ: Сравнение потребительского поведения пользователей фирмы GoFast c подписке и с бесплатной версией
-
-### Ссылки на проект: 
-[HTML](file:///C:/Users/user/Downloads/Scooters.html)
+[ipynb](http://localhost:8888/notebooks/Scooters.ipynb#)
+[HTML](https://github.com/VanessI11/MyPortfolio/blob/main/Project%201%3A%20Scooters./Scooters.html)
 
 ### Описание проекта: 
 
