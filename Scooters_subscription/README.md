@@ -1,5 +1,5 @@
 ##   ПРОЕКТ: Сравнение потребительского поведения пользователей фирмы GoFast c подписке и с бесплатной версией
-[ipynb](http://localhost:8888/notebooks/Scooters.ipynb#)
+[ipynb](https://github.com/VanessI11/MyPortfolio/blob/main/Scooters_subscription/Scooters.ipynb)
 [HTML](https://disk.yandex.ru/d/Bbu8mJbdq5iVxQ)
 
 ### Описание проекта:
