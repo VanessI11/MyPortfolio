@@ -1,8 +1,4 @@
-<table>
-  <tr>
-    <td style="font-size:20px; font-weight:bold; text-align:center;">Проект: Анализ мирового рынка видеоигр с 1980 по 2016 годы (с прогнозами на 2017)</td>
-  </tr>
-</table>
+<em>Проект: Анализ мирового рынка видеоигр с 1980 по 2016 годы (с прогнозами на 2017)</em>
 
    ### Ссылки на проект:
    [ipynb](https://github.com/VanessI11/MyPortfolio/blob/main/Game%20Platforms%20/games.ipynb)
